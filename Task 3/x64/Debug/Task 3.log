@@ -1,0 +1,64 @@
+﻿  Task 3.cpp
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(195,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(200,23): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(205,26): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(210,26): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(217,85): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(222,91): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(227,94): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(232,94): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(239,85): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(244,91): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(249,94): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\Task 3\Task 3.cpp(254,94): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Task 3.vcxproj -> C:\Users\yamen\Desktop\UNI\Advanced algorithms\FINAL SUBMISSION\Task 3\x64\Debug\Task 3.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
